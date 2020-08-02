@@ -19,21 +19,7 @@
 
 &nbsp;
 <table >
-  <td >
 
-  <!-- Talking about you -->
-  ### 🙋🏻‍♂️Talking about Personal Stuffs
-  - ⛑ Currently working as Tech Leader and Full Stack developer at [Elife](https://github.com/elifebr)
-  - 🧠 Always learning
-  - 💪🏻 Looking for Open Source projects to contibute
-  - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
-
-  ### 🔭 Goals to 2020
-  - 🍁 Move to Canada
-  - 📢 Improve my English and French
-  - 👩🏻‍💻 Learn more about the GraphQL ecosystem 
-    
-  </td>
   <td width="50%" style="border: 0;">
   <img  alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <a href="https://github.com/alekotibas">
@@ -69,5 +55,20 @@
   <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/alektobias/" alt="Docker" /> 
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=Insomnia&link=https://github.com/alektobias/" alt="Insomnia" /> 
   <img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat&logo=figma" alt="Figma" /> 
+  </td>
+    <td >
+
+  <!-- Talking about you -->
+  ### 🙋🏻‍♂️Talking about Personal Stuffs
+  - ⛑ Currently working as Tech Leader and Full Stack developer at [Elife](https://github.com/elifebr)
+  - 🧠 Always learning
+  - 💪🏻 Looking for Open Source projects to contibute
+  - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
+
+  ### 🔭 Goals to 2020
+  - 🍁 Move to Canada
+  - 📢 Improve my English and French
+  - 👩🏻‍💻 Learn more about the GraphQL ecosystem 
+    
   </td>
 </table>
