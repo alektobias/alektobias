@@ -60,7 +60,6 @@
 
   <!-- Talking about you -->
   ### 🙋🏻‍♂️Talking about Personal Stuffs
-  - ⛑ Currently working as Tech Leader and Full Stack developer at [Elife](https://github.com/elifebr)
   - 🧠 Always learning
   - 💪🏻 Looking for Open Source projects to contibute
   - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
