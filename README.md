@@ -64,8 +64,8 @@
   - 💪🏻 Looking for Open Source projects to contibute
   - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
 
-  ### 🔭 Goals to 2020
-  - 🍁 Move to Canada
+  ### 🔭 Goals to 2021
+
   - 📢 Improve my English and French
   - 👩🏻‍💻 Learn more about the GraphQL ecosystem 
     
