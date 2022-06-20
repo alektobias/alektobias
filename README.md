@@ -64,10 +64,10 @@
   - 💪🏻 Looking for Open Source projects to contibute
   - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
 
-  ### 🔭 Goals to 2021
+  ### 🔭 Goals to 2022
 
   - 📢 Improve my English and French
-  - 👩🏻‍💻 Learn more about the GraphQL ecosystem 
+  - 👩🏻‍💻 Learn more about the Software Architecture
     
   </td>
 </table>
