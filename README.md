@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=Insomnia&link=https://github.com/alektobias/" alt="Insomnia" /> 
   <img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat&logo=figma" alt="Figma" /> 
   </td>
-    <td >
+<!--     <td >
 
   <!-- Talking about you -->
   ### 🙋🏻‍♂️Talking about Personal Stuffs
@@ -64,10 +64,10 @@
   - 💪🏻 Looking for Open Source projects to contibute
   - 🦇 I use the [Dracula Theme](https://draculatheme.com) on everything
 
-  ### 🔭 Goals to 2022
+  ### 🔭 Goals to 2023
 
   - 📢 Improve my English and French
   - 👩🏻‍💻 Learn more about the Software Architecture
     
-  </td>
+  </td> -->
 </table>
