@@ -55,8 +55,7 @@
   <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/alektobias/" alt="Docker" /> 
   <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=Insomnia&link=https://github.com/alektobias/" alt="Insomnia" /> 
   <img src="https://img.shields.io/badge/-Figma-ffbaba?style=flat&logo=figma" alt="Figma" /> 
-  </td>
-<!--     <td >
+  </td>   <td >
 
   <!-- Talking about you -->
   ### 🙋🏻‍♂️Talking about Personal Stuffs
@@ -69,5 +68,5 @@
   - 📢 Improve my English and French
   - 👩🏻‍💻 Learn more about the Software Architecture
     
-  </td> -->
+  </td> 
 </table>
